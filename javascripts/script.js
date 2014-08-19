@@ -6,7 +6,7 @@ window.onload = init;
 
 function init() {
 
-$('encompassDiv').style("height","800px");
+$('#encompassDiv').style("height","800px");
 
 
 }
